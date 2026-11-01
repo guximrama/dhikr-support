@@ -1,7 +1,7 @@
 (() => {
 'use strict';
 const $ = id => document.getElementById(id);
-let data, selected, filtered = [], toastTimer;
+let data, selected, filtered = [], toastTimer, shareURLProvider = null;
 const normalize = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f\u064b-\u065f\u0670]/g, '').toLocaleLowerCase('sq');
 const sectionFor = prayer => data.sections.find(section => section.id === prayer.section);
 const titleFor = prayer => `${sectionFor(prayer)?.label || prayer.section} · ${prayer.number ?? prayer.id}`;
@@ -85,9 +85,9 @@ $('search').addEventListener('input',visibleList); $('category').addEventListene
 $('previous').addEventListener('click',()=>{ const index=filtered.findIndex(prayer=>prayer.id===selected.id); if(index>0) select(filtered[index-1].id,true); });
 $('next').addEventListener('click',()=>{ const index=filtered.findIndex(prayer=>prayer.id===selected.id); if(index>=0 && index<filtered.length-1) select(filtered[index+1].id,true); });
 $('print').addEventListener('click',()=>window.print());
-$('copy-link').addEventListener('click',async()=>{const url=new URL(location.href);url.searchParams.set('dua',selected.id);try{await navigator.clipboard.writeText(url.href);toast('Lidhja u kopjua.');}catch{toast('Kopjoni lidhjen nga shiriti i adresës.');}});
+$('copy-link').addEventListener('click',async()=>{const url=new URL(location.href);url.hash='';url.searchParams.set('dua',selected.id);const sharedURL=shareURLProvider ? shareURLProvider(url.href) : url.href;try{await navigator.clipboard.writeText(sharedURL);toast('Lidhja u kopjua.');}catch{toast('Kopjimi dështoi. Provoni përsëri.');}});
 window.addEventListener('popstate',()=>{if(data)select(new URL(location.href).searchParams.get('dua'));});
-window.DhikrReviewUI = {getContent:()=>data, getSelected:()=>selected, selectPrayer:id=>select(id,true), notify:toast};
+window.DhikrReviewUI = {getContent:()=>data, getSelected:()=>selected, selectPrayer:id=>select(id,true), notify:toast, setShareURLProvider:(provider,label='Kopjo lidhjen')=>{shareURLProvider=typeof provider==='function'?provider:null;$('copy-link').textContent=label;}};
 fetch('./content.json').then(response=>{if(!response.ok)throw new Error('content');return response.json();}).then(content=>{
  data=content;
  data.sections.forEach(section=>{const option=element('option','',`${section.label} (${section.count})`);option.value=section.id;$('category').append(option);});
