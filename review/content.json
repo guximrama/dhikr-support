@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "title": "Libri i Dhikrit dhe i Du'ave në Dritën e Kur'anit dhe Sunetit",
+    "author": "Shejkh Abdur-Rrazzak el-Bedër",
+    "translator": "Servet Mata",
+    "total_prayers": 40,
+    "greeting": "Esselamu 'alejkum ue rahmetUllahi ue barakatuHu",
+    "title_ar": "كتاب الذكر والدعاء في ضوء الكتاب والسنة",
+    "appVersion": "1.0.0",
+    "exportedAt": "2026-11-01T23:08:55.910Z",
+    "contentRevision": "7b4d4d497928617a316e6307a04369261d18c1816b65bf003ffe89469ba50cd3"
+  },
+  "sections": [
+    {
+      "id": "morning",
+      "label": "Dhikri i Mëngjesit",
+      "count": 15
+    },
+    {
+      "id": "evening",
+      "label": "Dhikri i Mbrëmjes",
+      "count": 13
+    },
+    {
+      "id": "sleep",
+      "label": "Du'atë para Gjumit",
+      "count": 12
+    }
+  ],
+  "prayers": [
+    {
+      "id": "morning_1",
+      "section": "morning",
+      "number": 1,
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismil-Lahil-ledhii la jedurru me'a ismiHi shej-un fil-erdi ue la fis- semaai, ue Hues-Semii'ul-'Alim. (tre herë)",
+      "albanian": "“Kërkoj ndihmë dhe mbrojtje me Emrin e Allahut, me përmendjen e të Cilit nuk të dëmton asgjë në tokë dhe nuk të godet asnjë bela që zbret nga qielli! Dhe Ai është Dëgjuesi i fjalëve tona dhe i Gjithdituri i çështjeve tona!”",
+      "reference": "Transmeton 'Uthman ibn 'Affan – RadijAllahu anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Çdokush që thotë në mëngjesin dhe mbrëmjen e çdo dite: “Kërkoj ndihmë dhe mbrojtje me Emrin e Allahut me përmendjen e të Cilit nuk të dëmton asgjë në tokë dhe nuk të godet asnjë bela që zbret nga qielli! Dhe Ai është Dëgjuesi i fjalëve tona dhe i Gjithëdituri i çështjeve tona”, nuk do ta dëmtojë atë asgjë.” [Transmeton Tirmidhiu, 3388]",
+      "compositionIds": [
+        "morning_1"
+      ]
+    },
+    {
+      "id": "morning_2",
+      "section": "morning",
+      "number": 2,
+      "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+      "transliteration": "Ja Hajju ja Kajjuum biRahmetiKe estegiith, aslih lii she'nije kul-lehu, ue la tekilnii ila nefsii tarfete 'ajn.",
+      "albanian": "“O i Gjalli i përhershëm, o i Vetëmjaftueshëm (Mbikëqyrës)! Kërkoj ndihmë me Mëshirën tënde, ma përmirëso gjithë gjendjen time, dhe mos më lër t'i mbështetem vetes time as sa një përpëlitje syri!”",
+      "reference": "Transmeton Enes ibn Malik – RadijAllahu 'anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – i tha Fatimes – RadijAllahu 'anha –: “Çfarë të pengon ty, që të veprosh diçka me të cilën të këshilloj; të thuash në sabah dhe në mbrëmje: ‘O i Gjalli i përhershëm, o i Vetëmjaftueshëm (Mbikëqyrës)! Kërkoj ndihmë me Mëshirën tënde, ma përmirëso tërë gjendjen time, dhe mos më lër t'i mbështetem vetes time as sa një përpëlitje syri!‘ [Transmeton Nesaiu në Sunen el-Kubra, 10330]",
+      "compositionIds": [
+        "morning_2"
+      ]
+    },
+    {
+      "id": "morning_3",
+      "section": "morning",
+      "number": 3,
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "transliteration": "SubhanAllahi ue bihamdiHi (100 herë)",
+      "albanian": "“I Pastër nga çdo mangësi është Allahu dhe Atij i takon Lavdia.”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu 'anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Kush thotë njëqind herë në mëngjes dhe në mbrëmje ‘I Pastër nga çdo mangësi është Allahu dhe Atij i takon Lavdia’, nuk do të vijë asnjë në Ditën e Gjykimit me diçka më të mirë se kjo që ka bëre ky, përveç dikujt që ka thënë aq sa ka thënë ai, apo më tepër se ai.” [Transmeton Muslim, 2692]",
+      "compositionIds": [
+        "morning_3"
+      ]
+    },
+    {
+      "id": "morning_4",
+      "section": "morning",
+      "number": 4,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ ﴿١﴾ ٱللَّهُ ٱلصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ ﴿٤﴾",
+      "transliteration": "Kul HuuAllahu Ehad. Allahus-Samed. Lem jelid ue lem juuled. Ue lem jekun lehu kufuuen Ehad. (tre herë)",
+      "albanian": "\"Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. Thuaj (o Muhamed)! Ai është Allahu, Ai është Një dhe i Vetëm! (Nuk ka të barabartë me Të, as ndihmues, as të ngjashëm me Të)! Allahu është Es-Samed (Atij i drejtohen krijesat për nevojat e tyre, Ai është i Vetëmjaftueshëm (Mbikëqyrës), i Gjallë i përhershëm)! Ai as nuk ka lindur kënd, dhe as nuk është i lindur. Dhe askush nuk është i barabartë dhe i krahasueshëm me Të.\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: 'Thuaj diçka!' Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: 'Thuaj diçka!', dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: 'Thuaj diçka!', atëherë unë i thashë: 'farë të them?!' Ai tha: 'Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e'uudhu biRabbil-felek, dhe Kul e'uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!' [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "morning_4"
+      ]
+    },
+    {
+      "id": "morning_5",
+      "section": "morning",
+      "number": 5,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+      "transliteration": "Kul e'uudhu biRabbil-felek. Min sherri ma khalek. Ue min sherri gaasikın idha uekab. Ue min sherrin-neffathaati fil-ukad. Ue min sherri haasidin idha hased. (tre herë)",
+      "albanian": "Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. \"Thuaj! Kërkoj mbrojtjen e Zotit të agimit! Nga e keqja e të gjitha krijesave! Dhe nga e keqja e errësirës së natës, kur ajo bie! Dhe nga e keqja e magjistarëve, që lidhin dhe fryjnë nyja! Dhe nga e keqja e smirëkeqit kur ka zili!\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: ‘Thuaj diçka!’ Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: ‘Thuaj diçka!’, dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: ‘Thuaj diçka!’, atëherë unë i thashë: ‘Çfarë të them?!’ Ai tha: ‘Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e’uudhu biRabbil-felek, dhe Kul e’uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!’ [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "morning_5"
+      ]
+    },
+    {
+      "id": "morning_6",
+      "section": "morning",
+      "number": 6,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ﴿١﴾ مَلِكِ ٱلنَّاسِ ﴿٢﴾ إِلَـٰهِ ٱلنَّاسِ ﴿٣﴾ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ﴿٤﴾ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ ﴿٥﴾ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ ﴿٦﴾",
+      "transliteration": "Kul e'uudhu biRabbin-naas. Melihin-naas. Ilaahin-naas. Min sherril-uesvaasil-khannaas. Elledhii juesuisu fii sudurin-naas. Minel-xhinneti uen-naas. (tre herë)",
+      "albanian": "Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. \"Thuaj! Kërkoj mbrojtjen e Zotit të njerëzve! Sunduesit të njerëzve! Të Adhuruarit të njerëzve! Prej të keqes së atij që pëshpërit të keqen, i cili fshihet. I cili hedh vesvese në zemrat e njerëzve! Prej Xhinëve apo prej njerëzve!\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: ‘Thuaj diçka!’ Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: ‘Thuaj diçka!’, dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: ‘Thuaj diçka!’, atëherë unë i thashë: ‘Çfarë të them?!’ Ai tha: ‘Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e’uudhu biRabbil-felek, dhe Kul e’uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!’ [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "morning_6"
+      ]
+    },
+    {
+      "id": "morning_7",
+      "section": "morning",
+      "number": 7,
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "transliteration": "Allahumme Ente Rabbii, la ilahe il- la Ente. Khalektenii, ue ene 'abduKe, ue ene 'ala 'ahdiKe ue u'adiKe mas-tet'atu. E'uudhu biKe min sherri ma san'atu. Ebuu-u leKe bi ni'ametiKe 'alejje, ue ebuu-u bi dhenbii, fe-gfir lii, fe innehu la jegfirudh-dhunuube il-la Ente.",
+      "albanian": "“O Allah! Ti je Zoti im, nuk ka të adhuruar tjetër me të drejtë përveç Teje! Ti më ke krijuar mua, dhe unë jam robi Yt! Unë do të jem besnik ndaj marrëveshjes dhe premtimit tim që kam ndaj Teje, aq sa të mundem! Kërkoj mbrojtjen tënde prej të keqes që kam bëre! Ty të jam mirënjohës për të mirat që mi ke dhënë! Unë i pranoj mëkatet e mia, prandaj më fal mua, pasi askush nuk mund t'i fal mëkatet përveç Teje!”",
+      "reference": "Transmeton Sheddad ibn Eus – RadijAllahu 'anhu – se Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Zotëria i Istigfareve (kërkimit të faljes) është të thuash: O Allah! Ti je Zoti im, nuk ka të adhuruar tjetër me të drejtë përveç Teje! Ti më ke krijuar mua, dhe unë jam robi Yt! Unë do qëndroj besnik ndaj marrëveshjes dhe premtimit tim që kam ndaj Teje, sa të mundem! Kërkoj mbrojtjen tënde prej të keqes që kam bëre! Ty të jam mirënjohës për të mirat që mi ke dhënë! Unë i pranoj mëkatet e mia, prandaj më fal mua, pasi askush nuk mund t'i fal mëkatet përveç Teje! Kush e thotë këtë në sabah, duke qenë i bindur në të, dhe vdes po atë ditë pa ardhur mrëmja, do të jetë prej banorëve të Xhennetit. Dhe kush e thotë këtë në mbrëmje, me bindje në të, dhe vdes pa ardhur mëngj esi, do të jetë prej banorëve të Xhennetit.” [Transmeton Bukhari, 6306]",
+      "compositionIds": [
+        "morning_7"
+      ]
+    },
+    {
+      "id": "morning_8",
+      "section": "morning",
+      "number": 8,
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+      "transliteration": "Asbahna ue asbahal-mulku lil-Lah, uel hamdu li-Lah. La ilahe il- lAllahu uahdeHu la sherike leH, leHul-mulku ue leHul-hamdu ue Hue 'ala kul-li shej-in kadiir. Rabbi es-eluKe khajra ma fii hadhal-jeumi ue khajra ma b'adehu, ue e'uudhu biKe min sherri ma fii hadhal-jeumi ue sherri me b'adehu. Rabbi e'uudhu biKe minel-keseli ue suuil- kiber, Rabbi e'uudhu biKe min 'adhabin fin-nari ue 'adhabin fil- kabr.",
+      "albanian": "“E arritëm mëngjesin, i gjithë sundimi dhe e gjithë lavdia i takojnë Allahut! Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok. Atij i takon Sundimi dhe Lavdia dhe Ai është Plotfuqishëm për çdo gjë. O Zoti im! Të kërkoj Ty të mirën e asaj që gjendet në këtë ditë, dhe të mirën e ditëve në vazhdim! Dhe kërkoj mbrojtjen Tënde prej të keqes që gjendet në këtë ditë, dhe të keqes së ditëve në vazhdim! O Zoti im! Kërkoj mbrojtjen Tënde prej përtacisë dhe nga e keqja e pleqërisë! O Zoti im! Kërkoj mbrojtjen Tënde prej dënimit të Zjarrit dhe prej dënimit të varrit!”",
+      "reference": "Transmeton Abdullah ibn Mes'ud – RadijAllahu 'anhu – se Pejgamberi i Allahut – sal-lAllahu 'alejhi ue sel-lem – në mbrëmje thoshte: “E arritem mbrëmjen, i gjithë sundimi dhe e gjithë lavdia i takoj në Allahut...” Dhe në mëngjes thoshte gjithashtu: “E arritem mëngjesin, i gjithë sundimi dhe e gjithë lavdia i takoj në Allahut...” [Transmeton Muslimi, 2723]",
+      "compositionIds": [
+        "morning_8"
+      ]
+    },
+    {
+      "id": "morning_9",
+      "section": "morning",
+      "number": 9,
+      "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+      "transliteration": "Allahumme biKe asbahna ue biKe emsejna, ue biKe nahja ue biKe nemuutu, ue ilejKen-nushuur",
+      "albanian": "“O Allah! Me Lejen Tënde u gdhimë dhe me Lejen Tënde u ngrysëm, me Lejen Tënde jetojmë dhe me Lejen Tënde do të vdesim, dhe te Ty është kthimi!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu alejhi ue sel-lem – i mësonte shokët e tij dhe u thoshte: “Nëse e arrin mëngjesin ndonjëri prej jush, le të thotë: O Allah! Me Lejen tënde u gdhimë dhe me Lejen tënde u ngrysëm, me Lejen tënde jetojm dhe me Lejen tënde do të vdesim dhe te Ty është kthimi! Dhe nëse e arrin mbrëmjen le të thotë: O Allah me Lejen tënde u ngrysëm dhe me Lejen tënde do të gdhijm, me Lejen tënde jetojm dhe me Lejen tënde do të vdesim dhe te Ty është kthimi!” [Transmeton Bukhari në El-Edebul-Mufred, 1199 dhe Nesaiu, 10323]",
+      "compositionIds": [
+        "morning_9"
+      ]
+    },
+    {
+      "id": "morning_10",
+      "section": "morning",
+      "number": 10,
+      "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+      "transliteration": "Allahumme 'Aalimel-gajbi uesh- shehadeh, Fatires-semauati uel-erd, Rabbe kul-li shej-in ue meliikeh, esh'hedu en la ilahe il-la Ente. E'uudhu biKe min sherri nefsii, ue min sherrish-shejtani ue shirkihi, ue en ekterife 'ala nefsii suuen, eu exhurrahu ila muslim.",
+      "albanian": "“O Allah! Ti je Ai që di të fshehtën dhe të dukshmen, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaje dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen Tënde nga e keqja e vetes sime, nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Kërkoj mbrojtjen Tënde që të mos i bëj dëm vetes sime apo ndonjë Muslimani!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu 'anhu – se Ebu Bekr Es-Siddik – RadijAllahu 'anhu – tha: O i Dërguari i Allahut! Më urdhëro me disa fjalë që ti them ato në mëngjes dhe në mbrëmje! I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – tha: Thuaj: O Allah! Ti je Ai që di të fshehtat dhe të dukshmet, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaj e dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen tënde nga e keqja e vetes sime, dhe nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Dhe kërkoj mbrojtjen tënde që të mos i bëj dëm vetes sime apo ndon jë Muslimani! Pastaj tha: Thuaji kët o fjalë në mëngjes, në mbrëmje dhe kur të shtrihesh për të fjetur gjumë. [Transmeton Tirmidhiu, (3392), (3529) dhe Ebu Daud, (5067), (5083)]",
+      "compositionIds": [
+        "morning_10"
+      ]
+    },
+    {
+      "id": "morning_11",
+      "section": "morning",
+      "number": 11,
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي، وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+      "transliteration": "Allahumme inni es-eluKel-'af'ue uel-'aafijete fid-dunja uel-akhirah. Allahumme inni es-eluKel-'af'ue uel-'aafijete fi dijni ue dunjaje ue ehli ue mali. Allahumme-stur 'aurati ue aamin rau'aati. Allahumme- hfedhni min bejni jedejje ue min khalfi, ue 'an jemijni ue 'an shimali, ue min feuki ue e'uudhu bi'adhametiKe en ugtaale min tahti.",
+      "albanian": "“O Allah! Kërkoj faljen dhe shpëtimin Tënd në këtë botë dhe në Botën tjetër! O Allah! Kërkoj faljen dhe mbrojtjen Tënde në Fenë time, dunjanë time, familjen dhe pasurinë time! O Allah! M’i mbulo të metat e mia, dhe më qetëso në momentet trishtuese! O Allah! Më ruaj nga para meje, nga mbrapa meje, nga e djathta ime, nga e majta ime, nga sipër meje dhe kërkoj me Fuqinë Tënde të më ruash që të mos më lëshojë toka!”",
+      "reference": "Transmeton Ibn Umer – RadijAllahu 'anhuma –, i cili thotë: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – nuk e ka lënë pa bëre asnjëherë këtë lutje në mëngjes dhe në mbrëmje: O Allah! Kërkoj faljen dhe shpëtimin tënde në këtë botë, dhe në Botën Tjetër! O Allah! Kërkoj faljen dhe mbrojtjen tënde në Fenë time, dun janë time, familjen dhe pasurinë time! O Allah! M'i mbulo të metat e mia, dhe më qetso në momentet trishtuese! O Allah! Më ruaj nga para meje, nga mbrapa nga e djathta ime, nga e majta ime, nga sipër meje dhe kërkoj me Fuqinë tënde të më ruash që të mos më lëshojë toka! [Transmeton Ebu Daudi, 5074 dhe Ibn Maxheh, 3871]",
+      "compositionIds": [
+        "morning_11"
+      ]
+    },
+    {
+      "id": "morning_12",
+      "section": "morning",
+      "number": 12,
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "La ilahe il-lAllahu uahdeHu la sherijke leH, leHul-mulku ue leHul-hamdu ue Hue ala kul-li shej-in Kadijr",
+      "albanian": "“Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok, Atij i takon Sundimi dhe Lavdia dhe Ai është Fuqishëm për çdo gjë.”",
+      "reference": "Transmeton Ebu 'Ajjash Ez-Zurakij – RadijAllahu 'anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: Kush thotë në mëngjes: Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok, Atij i takon Sundimi dhe Lavdia dhe Ai është Fuqishm për çdo gjë.; Ka shpërblim sa për lirimin e një robi prej bij ve të Ismailit (alejhis-selam), i shkruhen dhjetë sevape, i fshihen dhjetë gjynahe, i ngrihen dhjetë grada dhe do të jetë i mbrojtur prej shejtanit deri sa të vijë mrëmja. Dhe nëse e thotë atë në mbrëmje, do të ketë të njëjtat gjëra deri në mëngjes. [Transmeton Ebu Daud, 5077 dhe Ibn Maxheh, 3867]",
+      "compositionIds": [
+        "morning_12"
+      ]
+    },
+    {
+      "id": "morning_13",
+      "section": "morning",
+      "number": 13,
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ",
+      "transliteration": "SubhanAllahi ue bihamdiHi 'adede khalkiHi, ue ridaa nefsiHi, ue zinete'arshiHi, ue midade kelimatiHi. (tre herë) ",
+      "albanian": "“I Pastër nga të metat është Allahu dhe Atij i takon Lavdia; sa numri i krijesave të Tij, sa dëshiron Ai prej robërve të Tij, sa pesha e Arshit të Tij dhe sa pafundësia e Fjalëve të Tij.”",
+      "reference": "Transmeton nëna e besimtarëve, Xheurijjeh – RadijAllahu 'anha – se Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – doli prej dhomës së saj herët në mëngjes për të falur namazin e Sabahut, ndërkohe që ajo ishte në vendin e saj të faljes (duke bëre Dhikr). Pastaj u kthye pas lindjes së diellit, dhe ajo ishte përsëri e ulur në atë vend, dhe i tha: Akoma vazhdon të jesh në atë gjendje që të lashë?! Ajo i tha: Po! Atëherë Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – i tha: Me të vërtetë që kam thënë katër fjalë, tre herë! Nëse do të përfshiheshin (në peshoren e veprave) me ato lutje që ke bëre ti nga falja e Sabahut deri tani, ato do të peshonin më shumë! (Ato fjalë janë): I Pastër nga të metat është Allahu dhe Atij i takon Lavdia; sa numri i krijesave të Tij, sa dëshiron Ai prej robërve të Tij, sa pesha e Arshit të Tij dhe sa pafundësia e Fjalëve të Tij. [Transmeton Muslimi, 2726]",
+      "compositionIds": [
+        "morning_13"
+      ]
+    },
+    {
+      "id": "morning_14",
+      "section": "morning",
+      "number": 14,
+      "arabic": "أَصْبَحْنَا عَلَى فِطْرَةِ الْإِسْلَامِ، وَعَلَى كَلِمَةِ الْإِخْلَاصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ، حَنِيفًا مُسْلِمًا، وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "transliteration": "Asbahna 'ala fitratil Islam, ue 'ala kelimetil Ikhlas, ue 'ala diini Nebijjina Muhammed sal-lAllahu alejhi ue sel-lem, ue 'ala mil-leti ebijna Ibrahime hanijfen Muslimen ue ma kane minel-mushrikiin.",
+      "albanian": "“E arritëm mëngjesin duke qenë në pastërtinë e Fesë Islame, dhe në fjalën e sinqertë (La ilahe il- lAllah Muhammed ResulUllah), në Fenë e Pejgamberit tonë Muhammedit – sal-lAllahu ‘alejhi ue sel-lem –, dhe në Fenë e babait tonë Ibrahimit (alejhis-selam), i cili ka qenë larg besimeve të kota, dhe ishte Musliman e nuk ishte prej idhujtarëve.”",
+      "reference": "Transmeton AbduRrahman ibn Ebza – RadijAllahu 'anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – në mëngjes thoshte: E arritem mëngjesin duke qenë në pastërtinë e Fesë Islame, dhe në fjalën e sinqertë (La ilahe il-lAllah Muhammed ResulUllah), në Fenë e Pejgamberit tonë Muhammedit – sal-lAllahu 'alejhi ue sel-lem –, dhe në Fenë e babait tonë Ibrahimit (alejhis-selam), i cili ka qenë larg besimeve të kota, dhe ishte Musliman e nuk ishte prej idhujtarëve. [Transmeton Imam Ahmedi, 15367]",
+      "compositionIds": [
+        "morning_14"
+      ]
+    },
+    {
+      "id": "morning_15",
+      "section": "morning",
+      "number": 15,
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+      "transliteration": "Allahumme innii es'eluKe 'ilmen nafi'an, ue rizkan tajjiben, ue 'amelen mutekabbelen.",
+      "albanian": "“O Allah! Të kërkoj Ty të më japësh dije të dobishme, furnizim të mirë, dhe vepra të pranuara!”",
+      "reference": "Transmeton nëna e besimtarëve Ummu Selemeh – RadijAllahu 'anha – se Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – pasi jepte selam në namazin e Sabahut thoshte: O Allah! Të kërkoj Ty të më japësh dije të dobishme, furnizim të mirë, dhe vepra të pranuara! [Transmeton Imam Ahmedi, 26602 dhe Ibn Maxheh 925]",
+      "compositionIds": [
+        "morning_15"
+      ]
+    },
+    {
+      "id": "evening_1",
+      "section": "evening",
+      "number": 1,
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismil-Lahil-ledhii la jedurru me'a ismiHi shej-un fil-erdi ue la fis- semaai, ue Hues-Semii'ul-'Alim. (tre herë)",
+      "albanian": "“Kërkoj ndihmë dhe mbrojtje me Emrin e Allahut, me përmendjen e të Cilit nuk të dëmton asgjë në tokë dhe nuk të godet asnjë bela që zbret nga qielli! Dhe Ai është Dëgjuesi i fjalëve tona dhe i Gjithdituri i çështjeve tona!”",
+      "reference": "Transmeton 'Uthman ibn 'Affan – RadijAllahu anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Çdokush që thotë në mëngjesin dhe mbrëmjen e çdo dite: “Kërkoj ndihmë dhe mbrojtje me Emrin e Allahut me përmendjen e të Cilit nuk të dëmton asgjë në tokë dhe nuk të godet asnjë bela që zbret nga qielli! Dhe Ai është Dëgjuesi i fjalëve tona dhe i Gjithëdituri i çështjeve tona”, nuk do ta dëmtojë atë asgjë.” [Transmeton Tirmidhiu, 3388]",
+      "compositionIds": [
+        "evening_1"
+      ]
+    },
+    {
+      "id": "evening_2",
+      "section": "evening",
+      "number": 2,
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "transliteration": "E'uudhu biKelimaatil-Lahit- taammaati min sherri ma khalak. (tre herë)",
+      "albanian": "“Kërkoj mbrojtje me Fjalët e përsosura të Allahut prej së keqes që ka krijuar!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu anhu –, i cili ka thënë: Erdhi një burrë te Pejgamberi – sal- lAllahu 'alejhi ue sel-lem – dhe tha: “O i Dërguari i Allahut, mrëmë më shqëtesoi një dhimbje e fortë nga pickimi i një akrepi! I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – i tha: Nëse do të thoshe në mbrëmje: “Kërkoj mbrojtje me Fjalët e përsosura të Allahut prej së keqes që ka krijuar!”, nuk do të të dëmtonte asgjë!” [Transmeton Muslim, 2709] Ndërsa në një transmetim tjetër të Tirmidhiut: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Kush thotë në mbrëmje tre herë: “Kërkoj mbrojtje me Fjalët e përsosura të Allahut prej së keqes që ka krijuar!”, nuk do ta dëmtojë atë pickimi i asnjë krijese helmuese në atë natë! [Transmeton Tirmidhiu, 3604]",
+      "compositionIds": [
+        "evening_2"
+      ]
+    },
+    {
+      "id": "evening_3",
+      "section": "evening",
+      "number": 3,
+      "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+      "transliteration": "Ja Hajju ja Kajjuum biRahmetiKe estegiith, aslih lii she'nije kul-lehu, ue la tekilnii ila nefsii tarfete 'ajn.",
+      "albanian": "“O i Gjalli i përhershëm, o i Vetëmjaftueshëm (Mbikëqyrës)! Kërkoj ndihmë me Mëshirën tënde, ma përmirëso gjithë gjendjen time, dhe mos më lër t'i mbështetem vetes time as sa një përpëlitje syri!”",
+      "reference": "Transmeton Enes ibn Malik – RadijAllahu 'anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – i tha Fatimes – RadijAllahu 'anha –: “Çfarë të pengon ty, që të veprosh diçka me të cilën të këshilloj; të thuash në sabah dhe në mbrëmje: ‘O i Gjalli i përhershëm, o i Vetëmjaftueshëm (Mbikëqyrës)! Kërkoj ndihmë me Mëshirën tënde, ma përmirëso tërë gjendjen time, dhe mos më lër t'i mbështetem vetes time as sa një përpëlitje syri!‘ [Transmeton Nesaiu në Sunen el-Kubra, 10330]",
+      "compositionIds": [
+        "evening_3"
+      ]
+    },
+    {
+      "id": "evening_4",
+      "section": "evening",
+      "number": 4,
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "transliteration": "SubhanAllahi ue bihamdiHi (100 herë)",
+      "albanian": "“I Pastër nga çdo mangësi është Allahu dhe Atij i takon Lavdia.”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu 'anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Kush thotë njëqind herë në mëngjes dhe në mbrëmje ‘I Pastër nga çdo mangësi është Allahu dhe Atij i takon Lavdia’, nuk do të vijë asnjë në Ditën e Gjykimit me diçka më të mirë se kjo që ka bëre ky, përveç dikujt që ka thënë aq sa ka thënë ai, apo më tepër se ai.” [Transmeton Muslim, 2692]",
+      "compositionIds": [
+        "evening_4"
+      ]
+    },
+    {
+      "id": "evening_5",
+      "section": "evening",
+      "number": 5,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ هُوَ ٱللَّهُ أَحَدٌ ﴿١﴾ ٱللَّهُ ٱلصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ ﴿٤﴾",
+      "transliteration": "Kul HuuAllahu Ehad. Allahus-Samed. Lem jelid ue lem juuled. Ue lem jekun lehu kufuuen Ehad. (tre herë)",
+      "albanian": "\"Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. Thuaj (o Muhamed)! Ai është Allahu, Ai është Një dhe i Vetëm! (Nuk ka të barabartë me Të, as ndihmues, as të ngjashëm me Të)! Allahu është Es-Samed (Atij i drejtohen krijesat për nevojat e tyre, Ai është i Vetëmjaftueshëm (Mbikëqyrës), i Gjallë i përhershëm)! Ai as nuk ka lindur kënd, dhe as nuk është i lindur. Dhe askush nuk është i barabartë dhe i krahasueshëm me Të.\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: 'Thuaj diçka!' Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: 'Thuaj diçka!', dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: 'Thuaj diçka!', atëherë unë i thashë: 'farë të them?!' Ai tha: 'Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e'uudhu biRabbil-felek, dhe Kul e'uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!' [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "evening_5"
+      ]
+    },
+    {
+      "id": "evening_6",
+      "section": "evening",
+      "number": 6,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+      "transliteration": "Kul e'uudhu biRabbil-felek. Min sherri ma khalek. Ue min sherri gaasikın idha uekab. Ue min sherrin-neffathaati fil-ukad. Ue min sherri haasidin idha hased. (tre herë)",
+      "albanian": "Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. \"Thuaj! Kërkoj mbrojtjen e Zotit të agimit! Nga e keqja e të gjitha krijesave! Dhe nga e keqja e errësirës së natës, kur ajo bie! Dhe nga e keqja e magjistarëve, që lidhin dhe fryjnë nyja! Dhe nga e keqja e smirëkeqit kur ka zili!\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: ‘Thuaj diçka!’ Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: ‘Thuaj diçka!’, dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: ‘Thuaj diçka!’, atëherë unë i thashë: ‘Çfarë të them?!’ Ai tha: ‘Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e’uudhu biRabbil-felek, dhe Kul e’uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!’ [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "evening_6"
+      ]
+    },
+    {
+      "id": "evening_7",
+      "section": "evening",
+      "number": 7,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ﴿١﴾ مَلِكِ ٱلنَّاسِ ﴿٢﴾ إِلَـٰهِ ٱلنَّاسِ ﴿٣﴾ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ﴿٤﴾ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ ﴿٥﴾ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ ﴿٦﴾",
+      "transliteration": "Kul e'uudhu biRabbin-naas. Melihin-naas. Ilaahin-naas. Min sherril-uesvaasil-khannaas. Elledhii juesuisu fii sudurin-naas. Minel-xhinneti uen-naas. (tre herë)",
+      "albanian": "Me Emrin e Allahut, të Gjithëmëshirshmit, Mëshiruesit. \"Thuaj! Kërkoj mbrojtjen e Zotit të njerëzve! Sunduesit të njerëzve! Të Adhuruarit të njerëzve! Prej të keqes së atij që pëshpërit të keqen, i cili fshihet. I cili hedh vesvese në zemrat e njerëzve! Prej Xhinëve apo prej njerëzve!\" (tre herë)",
+      "reference": "Transmeton Abdullah ibn Khubejb, i cili thotë: Dolëm në një natë shumë të errët me shi, të kërkonim të Dërguarin e Allahut – sal-lAllahu 'alejhi ue sel-lem – që të na printe në namaz. Pasi e arrita atë, më tha: ‘Thuaj diçka!’ Ndërsa unë nuk thashë asgjë! Pastaj më tha përsëri: ‘Thuaj diçka!’, dhe unë nuk thashë përsëri asgjë. Ai më tha përsëri: ‘Thuaj diçka!’, atëherë unë i thashë: ‘Çfarë të them?!’ Ai tha: ‘Thuaj: Kul Hua Allahu Ehad dhe dy Suret e kërkimit të mbrojtjes (Kul e’uudhu biRabbil-felek, dhe Kul e’uudhu biRabbin-nas) në mbrëmje dhe në mëngjes tre herë, dhe do të të mjaftojnë ty për çdo gjë!’ [Transmeton Ebu Daudi, 5082 dhe Tirmidhiu, 3575]",
+      "compositionIds": [
+        "evening_7"
+      ]
+    },
+    {
+      "id": "evening_8",
+      "section": "evening",
+      "number": 8,
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "transliteration": "Allahumme Ente Rabbii, la ilahe il- la Ente. Khalektenii, ue ene 'abduKe, ue ene 'ala 'ahdiKe ue u'adiKe mas-tet'atu. E'uudhu biKe min sherri ma san'atu. Ebuu-u leKe bi ni'ametiKe 'alejje, ue ebuu-u bi dhenbii, fe-gfir lii, fe innehu la jegfirudh-dhunuube il-la Ente.",
+      "albanian": "“O Allah! Ti je Zoti im, nuk ka të adhuruar tjetër me të drejtë përveç Teje! Ti më ke krijuar mua, dhe unë jam robi Yt! Unë do të jem besnik ndaj marrëveshjes dhe premtimit tim që kam ndaj Teje, aq sa të mundem! Kërkoj mbrojtjen tënde prej të keqes që kam bëre! Ty të jam mirënjohës për të mirat që mi ke dhënë! Unë i pranoj mëkatet e mia, prandaj më fal mua, pasi askush nuk mund t'i fal mëkatet përveç Teje!”",
+      "reference": "Transmeton Sheddad ibn Eus – RadijAllahu 'anhu – se Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – ka thënë: “Zotëria i Istigfareve (kërkimit të faljes) është të thuash: O Allah! Ti je Zoti im, nuk ka të adhuruar tjetër me të drejtë përveç Teje! Ti më ke krijuar mua, dhe unë jam robi Yt! Unë do qëndroj besnik ndaj marrëveshjes dhe premtimit tim që kam ndaj Teje, sa të mundem! Kërkoj mbrojtjen tënde prej të keqes që kam bëre! Ty të jam mirënjohës për të mirat që mi ke dhënë! Unë i pranoj mëkatet e mia, prandaj më fal mua, pasi askush nuk mund t'i fal mëkatet përveç Teje! Kush e thotë këtë në sabah, duke qenë i bindur në të, dhe vdes po atë ditë pa ardhur mrëmja, do të jetë prej banorëve të Xhennetit. Dhe kush e thotë këtë në mbrëmje, me bindje në të, dhe vdes pa ardhur mëngj esi, do të jetë prej banorëve të Xhennetit.” [Transmeton Bukhari, 6306]",
+      "compositionIds": [
+        "evening_8"
+      ]
+    },
+    {
+      "id": "evening_9",
+      "section": "evening",
+      "number": 9,
+      "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+      "transliteration": "Emsejna ue emsaa el-mulku lil-Lah, uel hamdu li-Lah. La ilahe il- lAllahu uahdeHu la sherike leH, leHul-mulku ue leHul-hamdu ue Hue 'ala kul-li shej-in kadiir. Rabbi es-eluKe khajra ma fii hadhihil- lejleti ue khajra ma b'adeha, ue e'uudhu biKe min sherri ma fii hadhihil-lejleti ue sherri ma b'adeha. Rabbi e'uudhu biKe minel- keseli ue suuil-kiber, Rabbi e'uudhu biKe min 'adhabin fin-nari ue 'adhabin fil-kabr.",
+      "albanian": "“E arritem mbrëmjen, i gjithë sundimi dhe e gjithë lavdia i takoj në Allahut! Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok. Atij i takon Sundimi dhe Lavdia dhe Ai është Plotfuqishm për çdo gjë. O Zoti im! Të kërkoj Ty të mirn e asaj që gjendet në këtë natë, dhe të mirn e netëve në vazhdim! Dhe kërkoj mbrojtjen tënde prej të keqes që gjendet në këtë natë, dhe të keqes së netëve në vazhdim! O Zoti im! Kërkoj mbrojtjen tënde prej përta cisë dhe nga e keqja e pleqërisë! O Zoti im! Kërkoj mbrojtjen tënde prej dënimit të Zjarrit dhe prej dënimit të varrit!”",
+      "reference": "Transmeton Abdullah ibn Mes'ud – RadijAllahu ‘anhu – se Pejgamberi i Allahut – sal-lAllahu ‘alejhi ue sel-lem – në mbrëmje thoshte: “E arritëm mbrëmjen, i gjithë sundimi dhe e gjithë lavdia i takojnë Allahut! Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok. Atij i takon Sundimi dhe Lavdia dhe Ai është Plotfuqishëm për çdo gjë. O Zoti im! Të kërkoj Ty të mirën e asaj që gjendet në këtë natë, dhe të mirën e netëve në vazhdim! Dhe kërkoj mbrojtjen Tënde prej të keqes që gjendet në këtë natë, dhe të keqes së netëve në vazhdim! O Zoti im! Kërkoj mbrojtjen Tënde prej përtacisë dhe nga e keqja e pleqërisë! O Zoti im! Kërkoj mbrojtjen Tënde prej dënimit të Zjarrit dhe prej dënimit të varrit!” Dhe në mëngjes thoshte gjithashtu: “E arritëm mëngjesin, i gjithë sundimi dhe e gjithë lavdia i takojnë Allahut! Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok. Atij i takon Sundimi dhe Lavdia dhe Ai është Plotfuqishëm për çdo gjë. O Zoti im! Të kërkoj Ty të mirën e asaj që gjendet në këtë natë, dhe të mirën e netëve në vazhdim! Dhe kërkoj mbrojtjen Tënde prej të keqes që gjendet në këtë natë, dhe të keqes së netëve në vazhdim! O Zoti im! Kërkoj mbrojtjen Tënde prej përtacisë dhe nga e keqja e pleqërisë! O Zoti im! Kërkoj mbrojtjen Tënde prej dënimit të Zjarrit dhe prej dënimit të varrit!” [Transmeton Muslim, 2723]",
+      "compositionIds": [
+        "evening_9"
+      ]
+    },
+    {
+      "id": "evening_10",
+      "section": "evening",
+      "number": 10,
+      "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+      "transliteration": "Allahumme biKe emsejna ue biKe asbahna, ue biKe nahja ue biKe nemuutu, ue ilejKel-mesiir",
+      "albanian": "“O Allah! Me Lejen tënde e arritem mbrëmjen dhe me Lejen tënde do të na arrijë mëngjesi, me Lejen tënde jetojmë dhe me Lejen tënde do të vdesim, dhe te Ty është kthimi!”",
+      "reference": "Transmeton Ebu Hurejrah - RadijAllahu anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu alejhi ue sel-lem – i mësonte shokët e tij dhe u thoshte: \"Nëse e arrin mëngjesin ndonjëri prej jush, le të thotë: \"O Allah! Me Lejen Tënde u gdhimë dhe me Lejen Tënde u ngrysëm, me Lejen Tënde jetojmë dhe me Lejen Tënde do të vdesim dhe te Ty është kthimi!\" Dhe nëse e arrin mbrëmjen le të thotë: \"O Allah me Lejen Tënde u ngrysëm dhe me Lejen Tënde do të gdhijmë, me Lejen Tënde jetojmë dhe me Lejen Tënde do të vdesim dhe te Ty është kthimi!\" [Transmeton Bukhari në El-Edebul-Mufred, 1199 dhe Nesaiu, 10323]",
+      "compositionIds": [
+        "evening_10"
+      ]
+    },
+    {
+      "id": "evening_11",
+      "section": "evening",
+      "number": 11,
+      "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+      "transliteration": "Allahumme 'Aalimel-gajbi uesh- shehadeh, Fatires-semauati uel-erd, Rabbe kul-li shej-in ue meliikeh, esh'hedu en la ilahe il-la Ente. E'uudhu biKe min sherri nefsii, ue min sherrish-shejtani ue shirkihi, ue en ekterife 'ala nefsii suuen, eu exhurrahu ila muslim.",
+      "albanian": "“O Allah! Ti je Ai që di të fshehtën dhe të dukshmen, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaje dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen Tënde nga e keqja e vetes sime, nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Kërkoj mbrojtjen Tënde që të mos i bëj dëm vetes sime apo ndonjë Muslimani!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu 'anhu – se Ebu Bekr Es-Siddik – RadijAllahu 'anhu – tha: O i Dërguari i Allahut! Më urdhëro me disa fjalë që ti them ato në mëngjes dhe në mbrëmje! I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – tha: Thuaj: O Allah! Ti je Ai që di të fshehtat dhe të dukshmet, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaj e dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen tënde nga e keqja e vetes sime, dhe nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Dhe kërkoj mbrojtjen tënde që të mos i bëj dëm vetes sime apo ndon jë Muslimani! Pastaj tha: Thuaji kët o fjalë në mëngjes, në mbrëmje dhe kur të shtrihesh për të fjetur gjumë. [Transmeton Tirmidhiu, (3392), (3529) dhe Ebu Daud, (5067), (5083)]",
+      "compositionIds": [
+        "evening_11"
+      ]
+    },
+    {
+      "id": "evening_12",
+      "section": "evening",
+      "number": 12,
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي، وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+      "transliteration": "Allahumme inni es-eluKel-'af'ue uel-'aafijete fid-dunja uel-akhirah. Allahumme inni es-eluKel-'af'ue uel-'aafijete fi dijni ue dunjaje ue ehli ue mali. Allahumme-stur 'aurati ue aamin rau'aati. Allahumme- hfedhni min bejni jedejje ue min khalfi, ue 'an jemijni ue 'an shimali, ue min feuki ue e'uudhu bi'adhametiKe en ugtaale min tahti.",
+      "albanian": "“O Allah! Kërkoj faljen dhe shpëtimin Tënd në këtë botë dhe në Botën tjetër! O Allah! Kërkoj faljen dhe mbrojtjen Tënde në Fenë time, dunjanë time, familjen dhe pasurinë time! O Allah! M’i mbulo të metat e mia, dhe më qetëso në momentet trishtuese! O Allah! Më ruaj nga para meje, nga mbrapa meje, nga e djathta ime, nga e majta ime, nga sipër meje dhe kërkoj me Fuqinë Tënde të më ruash që të mos më lëshojë toka!”",
+      "reference": "Transmeton Ibn Umer – RadijAllahu 'anhuma –, i cili thotë: I Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – nuk e ka lënë pa bëre asnjëherë këtë lutje në mëngjes dhe në mbrëmje: O Allah! Kërkoj faljen dhe shpëtimin tënde në këtë botë, dhe në Botën Tjetër! O Allah! Kërkoj faljen dhe mbrojtjen tënde në Fenë time, dun janë time, familjen dhe pasurinë time! O Allah! M'i mbulo të metat e mia, dhe më qetso në momentet trishtuese! O Allah! Më ruaj nga para meje, nga mbrapa nga e djathta ime, nga e majta ime, nga sipër meje dhe kërkoj me Fuqinë tënde të më ruash që të mos më lëshojë toka! [Transmeton Ebu Daudi, 5074 dhe Ibn Maxheh, 3871]",
+      "compositionIds": [
+        "evening_12"
+      ]
+    },
+    {
+      "id": "evening_13",
+      "section": "evening",
+      "number": 13,
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "La ilahe il-lAllahu uahdeHu la sherijke leH, leHul-mulku ue leHul-hamdu ue Hue ala kul-li shej-in Kadijr",
+      "albanian": "“Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok, Atij i takon Sundimi dhe Lavdia dhe Ai është Fuqishëm për çdo gjë.”",
+      "reference": "Transmeton Ebu 'Ajjash Ez-Zurakij – RadijAllahu 'anhu – se i Dërguari i Allahut – sal-lAllahu 'alejhi ue sel-lem – ka thënë: Kush thotë në mëngjes: Nuk ka të adhuruar tjetër me të drejtë përveç Allahut, të Vetëm dhe të Pashok, Atij i takon Sundimi dhe Lavdia dhe Ai është Fuqishm për çdo gjë.; Ka shpërblim sa për lirimin e një robi prej bij ve të Ismailit (alejhis-selam), i shkruhen dhjetë sevape, i fshihen dhjetë gjynahe, i ngrihen dhjetë grada dhe do të jetë i mbrojtur prej shejtanit deri sa të vijë mrëmja. Dhe nëse e thotë atë në mbrëmje, do të ketë të njëjtat gjëra deri në mëngjes. [Transmeton Ebu Daud, 5077 dhe Ibn Maxheh, 3867]",
+      "compositionIds": [
+        "evening_13"
+      ]
+    },
+    {
+      "id": "sleep_1",
+      "section": "sleep",
+      "number": 1,
+      "arabic": "",
+      "transliteration": "",
+      "albanian": "Para se të shtrihesh për të fjetur, i bashkon duart dhe i ngre ashtu sikurse i ngre kur bën lutje dhe pështyn lehtë në to. Më pas lexon tre herë Suren Ikhlas dhe fërkon sa të mundet trupin e tij me duar, duke filluar me kokën, fytyrën dhe trupin. Pastaj, të njëjtën gjë vepron me Suren Felek dhe Suren Nas.",
+      "reference": "Transmeton Aisheh – RadijAllahu 'anha – se Pejgamberi – sal-lAllahu 'alejhi ue sel-lem – çdo natë, para se të shkonte për të fjetur, i bashkonte duart dhe i ngrinte ashtu sikurse i ngre kur bën Du'a, dhe pështynte lehtë në to. Më pas lexonte Suren Ikhlas, Suren Felek, Suren Nas, dhe fërkonte sa të mundej trupin e tij me duar, duke filluar me kokën, fytyrën dhe trupin. Këtë e bënte këtë tre herë. [Bukhari 5017]",
+      "compositionIds": [
+        "sleep_1",
+        "morning_4",
+        "morning_5",
+        "morning_6"
+      ]
+    },
+    {
+      "id": "sleep_2",
+      "section": "sleep",
+      "number": 2,
+      "arabic": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ مَا فِى ٱلسَّمَـٰوَاتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَاتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ ﴿٢٥٥﴾",
+      "transliteration": "All-llahu la ilahe il-la Hu. El-hajjul-kajjum. La te-hudhuhu sinetun ue la neum. Lehu ma fis-semavati ue ma fil-erd. Men dhel-ledhi jeshfeu aindehu, il-la bi idhnihi.\n\nJaelemu ma bejne ejdhimi ue ma halfehun, ue la juhitune bi shej-in min alihimi il-la bi ma shae. Uesia kursijjuhus-semeuati uel erda, ue la jeduhu hifdhuhuma ue huve-l-alijjum-adhim.",
+      "albanian": "“Allahu është Ai i Cili nuk ka të adhuruar tjetër me të drejtë përveç Tij. Ai është i Gjalli i Përhershëm, i Vetëmjaftueshmi. Ai është i Patëmeta (nuk e zë kotja, pavëmendja, neglizhenca) dhe as nuk e zë gjumi (nuk i takon Atij ta zërë gjumi). E Tij është gjithçka çfarë ka në qiell dhe në tokë (është nën zotërimin e Tij). Asnjë krijesë nuk mund të ndërmjetësojë tek Ai, përveç se me Lejen dhe Dëshirën e Tij. Dija e Tij përfshin gjithçka (të kaluarën, të tashmen, të ardhmen, atë që ekziston dhe atë që nuk ekziston, dhe po të ekzistonte Ai e di se si do ishte). Dhe askush nuk mund të dijë diçka prej dijes së Tij, përveç asaj që Ai dëshiron që t'ua mësojë (për Veten e Tij, Emrat dhe Cilësitë e Tij, si dhe për krijesat e Tij). Gjerësia e Kursijjit të Tij (vendi ku Allahu vendos Dy Këmbët e Tij) përfshin qiejt dhe tokën. Dhe Atë nuk e rëndon aspak ruajtja e qiejve dhe tokës dhe çfarë ka në to (përkundrazi është shumë e lehtë për Të). Dhe Ai është më i Larti, Madhështori.” [el-Bekareh, 255]",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu ‘anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – më ngarkoi që të ruaja Zekatin e Ramazanit. Pas kësaj, erdhi dikush dhe filloi të vjedhë prej ushqimeve të grumbulluara! Unë e zura atë dhe i thashë: Pasha Allahun, do të të dërgoj tek i Dërguari i Allahut – sallAllahu ‘alejhi ue sel-lem! Ndërsa ai më tha: “Unë jam nevojtar, kam familje për të mbajtur dhe jam shumë në nevojë!” Për shkak të kësaj, e lëshova atë! Kur erdhi mëngjesi më tha Pejgamberi – sallAllahu ‘alejhi ue sel-lem –: “O Eba Hurejrah! Çfarë bëri i burgosuri yt mbrëmë?” I thashë: O i Dërguari i Allahut! U ankua se kishte nevojë të madhe dhe familje për të mbajtur, prandaj unë u tregova i mëshirshëm me të dhe e lashë të largohet! I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – tha: “Ai të ka gënjyer dhe do të kthehet prapë!” Kështu, unë e mësova se ai do të kthehet prapë për shkak të fjalës së të Dërguarit të Allahut – sal-lAllahu ‘alejhi ue sel-lem – që ai do të kthehet! Prandaj, unë e prita atë! Më vonë, ai erdhi përsëri të vjedhë prej ushqimeve, unë e kapa atë dhe i thashë: Do të të dërgoj tek i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem! Ai më tha: “Më lësho, sepse unë jam nevojtar, kam familje për të mbajtur dhe nuk do të kthehem më!” Prandaj e fala atë dhe e lashë të largohet! Kur erdhi mëngjesi, i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – më tha: “O Eba Hurejrah! Çfarë bëri i burgosuri yt?” I thashë: O i Dërguari i Allahut! U ankua se kishte nevojë të madhe dhe familje për të mbajtur, prandaj e fala atë dhe e lashë të largohet! I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – tha: “Ai të ka gënjyer, dhe do të kthehet prapë!” Kështu, unë e prita atë edhe natën e tretë, dhe ai erdhi përsëri të vjedhë prej ushqimeve, kështu që e zura atë dhe i thashë: Do të të dërgoj tek i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem! Dhe kjo është hera e tretë dhe e fundit, sepse ti pretendon se nuk do të kthehesh më dhe pastaj kthehesh përsëri! Ai më tha: “Më lejo të të mësoj disa fjalë, me të cilat do të të bëjë dobi Allahu ty!” Unë i thashë: Cilat janë ato fjalë? Ai tha: “Nëse shkon për të fjetur lexo Ajetin Kursij, derisa ta përfundosh të gjithë Ajetin, dhe do të të ruajë Allahu gjatë gjithë natës, dhe nuk do të të afrohet asnjë shejtan derisa të vijë mëngjesi!” Kështu që, e lashë të largohet dhe kur erdhi mëngjesi i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – më tha: “Çfarë bëri i burgosuri yt mbrëmë?” I thashë: O i Dërguari i Allahut! Ai Pretendoi se do të më mësojë disa fjalë me të cilat do të më bëjë dobi Allahu, prandaj e lashë të largohej! I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – tha: “Cilat janë ato fjalë?” I thashë: Më tha, nëse shkon për të fjetur lexo Ajetin Kursij nga fillimi derisa ta përfundosh atë dhe më tha: Allahu do të të ruajë gjatë gjithë natës, dhe nuk do të të afrohet asnjë shejtan derisa të vijë mëngjesi. (Sahabët ishin njerëzit më të zellshëm për mirësinë) Atëherë, i Dërguari i Allahut – sallAllahu ‘alejhi ue sel-lem – tha: “Të ka thënë të vërtetën, ndërsa ai është gënjeshtar! A e di se kush është ai që fliste me ty prej tre netësh o Eba Hurejrah?” I thashë: Jo! I Dërguari i Allahut – sallAllahu ‘alejhi ue sel-lem! Tha: “Ai ishte shejtani!” [Bukhari 2311]",
+      "compositionIds": [
+        "sleep_2"
+      ]
+    },
+    {
+      "id": "sleep_3",
+      "section": "sleep",
+      "number": 3,
+      "arabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ ﴿٢٨٦﴾",
+      "transliteration": "",
+      "albanian": "“I Dërguari (Muhammedi sal- lAllahu alejhi ue sel-lem) besoi në Shpalljen e Zotit i Tij, po ashtu edhe besimtarët. Të gjithë besimtarët besuan në Allahun (të Vetëm, pa i shoqëruar asgjë në adhurim), Melaiket e Tij, Librat e Tij (që ua ka zbritur të Dërguarve), të Dërguarit e Tij; dhe thonë: Ne nuk bëjmë dallim midis të Dërguarve të Tij (duke i besuar disa e duke i mohuar disa të tjerë). Si dhe thonë: Dëgjuam Fjalën tënde o Zoti ynë, u bindëm dhe punuam me të! Kërkojmë faljen Tënde o Zoti ynë, dhe tek Ti do të kthehemi (Ditën e Gjykimit)! Allahu nuk e ngarkon askënd përtej mundësive të tij. Çdokush do të shpërblehet për atë të mirë që ka punuar dhe do të dënohet për atë të keqe që ka vepruar. (Allahu iu tregon dhe i mëson njerëzit të thonë): O Zoti ynë mos na ndëshko nëse harrojmë (bërjen e ndonjë prej urdhëresave apo veprojmë ndonjë nga ndalesat në harresë) apo gabojmë (duke mos ia qëlluar të saktës për shkak të padijes)! O Zoti ynë! Mos na ngarko neve me vepra të vështira ashtu siç i ngarkove ata që ishin para nesh! O Zoti ynë! Mos na sprovo neve me diçka që nuk e përballojmë dot! (O Zoti ynë!) Na i fal neve mangësitë dhe rrëshqitjet tona në lidhje me Ty, na i fal veprat tona të këqija dhe na i mbulo ato prej të tjerëve dhe na mëshiro e na ruaj që mos të biem në mëkate! Ti je Mbrojtësi, Ndihmuesi ynë dhe te Ty jemi mbështetur. Pra, na ndihmo dhe na jep fitore kundra popullit jobesimtar!” [el-Bekareh, 285- 286]",
+      "reference": "Transmeton Ibn Mes'udi – RadijAllahu ‘anhu –, i cili thotë: Ka thënë Pejgamberi – sal-lAllahu ‘alejhi ue sel-lem –: “Kush i lexon dy Ajetet e fundit të Sures Bekareh në mbrëmje, i mjaftojnë atij.” [Bukhari 5009, Muslimi 808]",
+      "compositionIds": [
+        "sleep_3"
+      ]
+    },
+    {
+      "id": "sleep_4",
+      "section": "sleep",
+      "number": 4,
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "BismiKe Allahumme emuutu ue ahjaa",
+      "albanian": "“O Allah! Duke përmendur Emrin Tënd vdes, dhe me Emrin dhe përmendjen Tënde jetoj (Ti ma sjell vdekjen dhe Ti më jep jetë).”",
+      "reference": "Transmeton Hudhejfeh ibnul Jeman – RadijAllahu ‘anhu –, i cili thotë: Pejgamberi – sal-lAllahu ‘alejhi ue sellem – kur shkonte për të fjetur thoshte: “O Allah! Duke përmendur Emrin Tënd vdes, dhe me Emrin dhe përmendjen Tënde jetoj (Ti ma sjell vdekjen dhe Ti më jep jetë)”, dhe kur u zgjonte nga gjumi thoshte: “ElhamduliLahil-ledhii ahjana b‘ade ma ematena, ue ilejhinnushuur.” [Bukhari 6312]",
+      "compositionIds": [
+        "sleep_4"
+      ]
+    },
+    {
+      "id": "sleep_5",
+      "section": "sleep",
+      "number": 5,
+      "arabic": "اللَّهُمَّ إِنِّي أَسْلَمْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+      "transliteration": "Allahumme innii eslemtu uexh'hii ilejKe, ue feu-uadtu emrii ilejKe, ue elxhe'tu dhahrii ilejKe, ragbeten ue rehbeten ilejKe, la melxhe'e ue la menxha minKe il-la ilejKe. Aamentu bikitabiKel-ledhii enzelte, ue binebijjiKel-ledhii erselte.",
+      "albanian": "“O Allah! Ty ta kam nënshtruar fytyrën time, Ty t’i kam dorëzuar çështjet e mia dhe te Ty u mbështetëm plotësisht, duke shpresuar në shpërblimin Tënd dhe duke u frikësuar prej dënimit Tënd! Nuk ka strehim e as shpëtim prej Teje, vetëm se te Ti! E besova Librin (Kur'anin) që ke zbritur, dhe Pejgamberin (Muhammed) që ke dërguar.”",
+      "reference": "Transmeton Beraa ibn 'Aazib – RadijAllahu ‘anhuma – se Pejgamberi – sal-lAllahu ‘alejhi ue sel-lem – ka thënë: “Kur të shkosh për të fjetur merr abdes (të plotë) ashtu siç merr për namaz, më pas shtrihu në anën tënde të djathtë dhe thuaj: “O Allah! Ty ta kam nënshtruar fytyrën time, Ty t’i kam dorëzuar çështjet e mia dhe te Ty u mbështetëm plotësisht, duke shpresuar në shpërblimin Tënd dhe duke u frikësuar prej dënimit Tënd! Nuk ka strehim e as shpëtim prej Teje, vetëm se te Ti! E besova Librin (Kur'anin) që ke zbritur, dhe Pejgamberin (Muhammed) që ke dërguar.” Pasi, nëse vdes atë natë, do të vdesësh duke qenë në fitrah (Islam të pastër). Le të jenë këto fjalët e fundit që thua.” Beraa – RadijAllahu ‘anhu – tha: I përsërita ato në mënyrë që t’i mësoja, dhe thashë: 'Aamentu birasuuliKelledhii erselte', ndërsa i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – e korrigjoi atë duke i thënë: “Jo! Thuaj, ue binebijjiKel-ledhii erselte!” [Bukhari 6311, Muslimi 2710]",
+      "compositionIds": [
+        "sleep_5"
+      ]
+    },
+    {
+      "id": "sleep_6",
+      "section": "sleep",
+      "number": 6,
+      "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+      "transliteration": "BismiKe Rabbii ued‘atu xhenbii, ue biKe erfa‘uhu, fe-in emsekte nefsii farhamha, ue in erselteha fahfedh-ha bima tahfedhu bihi ‘ibadeKes- saalihiin",
+      "albanian": "“O Zoti im! Duke përmendur Emrin Tënd, u shtriva për të fjetur, dhe me Emrin Tënd ngrihem. Nëse ma merr shpirtin, më mëshiro! Dhe nëse ma rikthen atë në trupin tim (pas gjumit), atëherë më ruaj (prej kurtheve të shejtanit), ashtu siç i ruan robërit e Tu të mirë!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu ‘anhu – se i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – ka thënë: “Kur dikush prej jush shkon për të fjetur, le ta fshijë me dorë vendin e tij të fjetjes, pasi ai nuk e di se çfarë ka rënë aty pas ikjes së tij, pastaj (pasi të shtrihet) le të thotë: “O Zoti im! Duke përmendur Emrin Tënd, u shtriva për të fjetur, dhe me Emrin Tënd ngrihem. Nëse ma merr shpirtin, më mëshiro! Dhe nëse ma rikthen atë në trupin tim (pas gjumit), atëherë më ruaj (prej kurtheve të shejtanit), ashtu siç i ruan robërit e Tu të mirë!”” [Bukhari 6320, Muslimi 2714]",
+      "compositionIds": [
+        "sleep_6"
+      ]
+    },
+    {
+      "id": "sleep_7",
+      "section": "sleep",
+      "number": 7,
+      "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ",
+      "transliteration": "SubhanAllah (33 herë)\n**I pastër nga të metat është Allahu.**\n\nElhamduliLah (33 herë)\n**Lavdia dhe falenderimet e plota i takojnë vetëm Allahut.**\n\nAllahu Ekber (34 herë)\n**Allahu është më i Madhi.**",
+      "albanian": "",
+      "reference": "Transmeton Alij ibn Ebi Talib – RadijAllahu ‘anhu – se Fatimeh – RadijAllahu ‘anha – shkoi te Pejgamberi – sal-lAllahu ‘alejhi ue sel- lem – për t’i kërkuar një shërbëtore. Ndërsa ai i tha: “A të të tregoj për diçka që është më e mirë se ajo që po më kërkon?! Kur të shkosh për të fjetur të thuash SubhanAllah tridhjetë e tre herë, ElhamduliLah tridhjetë e tre herë, dhe Allahu Ekber tridhjetë e katër herë.” Tha Aliu – RadijAllahu ‘anhu –: “Nuk e kam lënë asnjëherë këtë dhikër pa bërë! I thanë: As natën e betejës së Siffinit? Tha: As natën e betejës së Siffinit!” [Bukhari 5362, Muslimi 2727]",
+      "compositionIds": [
+        "sleep_7"
+      ]
+    },
+    {
+      "id": "sleep_8",
+      "section": "sleep",
+      "number": 8,
+      "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ، يَوْمَ تَبْعَثُ عِبَادَكَ",
+      "transliteration": "Allahumme kinij ‘adhabeKe jeume teb‘athu ‘ibadeKe (tre herë)",
+      "albanian": "E vendos dorën e djathtë poshtë faqes dhe thua:\n\n “O Allah! Më ruaj prej dënimit Tënd ditën kur do t’i ringjallësh robërit e Tu (Ditën e Gjykimit)!”",
+      "reference": "Transmeton Beraa ibn 'Aazib – RadijAllahu ‘anhuma –, i cili thotë: I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – kur u shtrinte për të fjetur e vendoste dorën poshtë faqes së tij të djathtë dhe thoshte: “O Allah! Më ruaj prej dënimit Tënd ditën kur do t’i ringjallësh robërit e Tu (Ditën e Gjykimit)!” [Transmeton Bukhari në Edeb el-Mufred, 1215]",
+      "compositionIds": [
+        "sleep_8"
+      ]
+    },
+    {
+      "id": "sleep_9",
+      "section": "sleep",
+      "number": 9,
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا، وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ",
+      "transliteration": "ElhamduliLahil-ledhii et-‘amena, ue sekaana, ue kefaana, ue auaana. Fe- kem mim-men la kafije lehu ue la mu'uije",
+      "albanian": "“Lavdia dhe falenderimet i takojnë Allahut i Cili na ka furnizuar me ushqim dhe pije, na ka dhënë mjaftueshëm, dhe na ka dhënë strehim! Sa prej njerëzve nuk kanë mjaftueshëm dhe nuk kanë vendstrehim.”",
+      "reference": "Transmeton Enes ibn Malik – RadijAllahu ‘anhu – se i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – kur u shtrinte për të fjetur thoshte: “Lavdia dhe falenderimet i takojnë Allahut i Cili na ka furnizuar me ushqim dhe pije, na ka dhënë mjaftueshëm, dhe na ka dhënë strehim! Sa prej njerëzve nuk kanë mjaftueshëm dhe nuk kanë vendstrehim.” [Muslimi 2715]",
+      "compositionIds": [
+        "sleep_9"
+      ]
+    },
+    {
+      "id": "sleep_10",
+      "section": "sleep",
+      "number": 10,
+      "arabic": "اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
+      "transliteration": "Allahumme inneKe khalekte nefsii ue Ente teuef-faaha, leKe memaatuha ue mahjaaha, in ahjejteha fah-fedhha, ue in emet- teha fagfir leha. Allahumme innii es-eluKel-‘aafijeh",
+      "albanian": "“O Allah! Ti e ke krijuar shpirtin tim dhe Ti do ta marrësh atë! Vetëm Ti je Ai që e sjell vdekjen dhe i ngjall krijesat! Nëse do të më lësh të jetoj, atëherë më ruaj (prej çdo të keqe dhe dëmi), e nëse do të ma sjellësh vdekjen, atëherë kërkoj faljen Tënde! O Allah! Të kërkoj Ty mirëqenie!”",
+      "reference": "Transmeton Abdullah ibn ‘Umer – RadijAllahu ‘anhuma – se e urdhëroi një burrë që kur të flejë të thotë: “O Allah! Ti e ke krijuar shpirtin tim dhe Ti do ta marrësh atë! Vetëm Ti je Ai që e sjell vdekjen dhe i ngjallën krijesat! Nëse do të më lësh të jetoj, atëherë më ruaj (prej çdo të keqeje dhe dëmi), e nëse do të ma sjellësh vdekjen, atëherë kërkoj faljen Tënde! O Allah! Të kërkoj Ty mirëqenie!” Ndërsa, një njeri i tha: A e ke dëgjuar këtë nga ‘Umeri? Ibën ‘Umeri i tha: E kam dëgjuar nga ai që është më i mirë se ‘Umeri, nga i Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem. [Muslimi 2712]",
+      "compositionIds": [
+        "sleep_10"
+      ]
+    },
+    {
+      "id": "sleep_11",
+      "section": "sleep",
+      "number": 11,
+      "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ وَالْفُرْقَانِ، أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ، وَأَغْنِنَا مِنَ الْفَقْرِ",
+      "transliteration": "Allahumme Rabbes-semauatis-seb‘i ue Rabbel-erd, ue Rabbel-‘Arshil-‘adhiim, Rabbena ue Rabbe kul-li shej-in, Falikal-habbi uen-neua, ue Munzilet-Teurati uel-Inxhiili uel- Furkaan, e‘uudhu biKe min sherr-rri kul-li shej-in Ente aakhidhun binaasijetihi. Allahumme Entel-Eu- uelu fe-lejse kableKe shej, ue Entel- Aakhiru felejse b‘adeKe shej, ue Entedh-Dhaahiru felejse feukaKe shej, ue Entel-Baatinu felejse duuneKe shej. Ik'di ‘annad-dejne ue egnina minel-fakr",
+      "albanian": "“O Allah! Ti je Zoti (Krijuesi) i shtatë qiejve, i tokës dhe i Arshit madhështor. Ti je Zoti ynë dhe Zoti i gjithçkaje. Ti e nxjerr bimën nga fara dhe pemën nga bërthama. Ti e ke zbritur Teuratin, Inxhilin dhe Furkanin (Kur'anin). Kërkoj mbrojtjen Tënde prej të keqes së çdo gjëje, sepse vetëm Ti ke mundësi për këtë! O Allah! Ti je i Pari (i Pafillim), dhe asgjë nuk ka ekzistuar para Teje dhe as me Ty! Ti je i Pafund (i Pambarim, që ngelesh përgjithmonë), dhe pas Teje nuk ngelet asgjë! Ti je më i Lartësuari, dhe nuk ka asgjë sipër Teje! Ti je më i Afërti (me Dijen Tënde) te krijesat dhe askush nuk është më afër te krijesat se Ti! (OAllah!) Na bëj që t’i kryejmë obligimet tona ndaj Teje dhe ndaj krijesave të Tua, dhe na ruaj nga varfëria dhe lypja!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu ‘anhu –, i cili thotë: I Dërguari i Allahut – sal-lAllahu ‘alejhi ue sel-lem – na urdhëronte që kur të shtrihemi për të fjetur të themi: “O Allah! Ti je Zoti (Krijuesi) i shtatë qiejve, i tokës dhe i Arshit madhështor. Ti je Zoti ynë dhe Zoti i gjithçkaje. Ti e nxjerr bimën nga fara dhe pemën nga bërthama. Ti e ke zbritur Teuratin, Inxhilin dhe Furkanin (Kur'anin). Kërkoj mbrojtjen Tënde prej të keqes së çdo gjëje, sepse vetëm Ti ke mundësi për këtë! O Allah! Ti je i Pari (i Pafillim), dhe asgjë nuk ka ekzistuar para Teje dhe as me Ty! Ti je i Pafund (i Pambarim, që ngelesh përgjithmonë), dhe pas Teje nuk ngelet asgjë! Ti je më i Lartësuari, dhe nuk ka asgjë sipër Teje! Ti je më i Afërti (me Dijen Tënde) te krijesat dhe askush nuk është më afër te krijesat se Ti! (O Allah!) Na bëj që t’i kryejmë obligimet tona ndaj Teje dhe ndaj krijesave të Tua, dhe na ruaj nga varfëria dhe lypja!” [Muslimi 2713]",
+      "compositionIds": [
+        "sleep_11"
+      ]
+    },
+    {
+      "id": "sleep_12",
+      "section": "sleep",
+      "number": 12,
+      "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+      "transliteration": "Allahumme ‘Aalimel-gajbi uesh- shehadeh, Fatires-semauati uel-erd, Rabbe kul-li shej-in ue meliikeh, esh’hedu en la ilahe il-la Ente. E‘uudhu biKe min sherri nefsii, ue min sherrish-shejtani ue shirkihi, ue en ekterife ‘ala nefsii suuen, eu exhurrahu ila muslim.",
+      "albanian": "“O Allah! Ti je Ai që di të fshehtën dhe të dukshmen, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaje dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen Tënde nga e keqja e vetes sime, nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Kërkoj mbrojtjen Tënde që të mos i bëj dëm vetes sime apo ndonjë Muslimani!”",
+      "reference": "Transmeton Ebu Hurejrah – RadijAllahu ‘anhu – se Ebu Bekr Es- Siddik – RadijAllahu ‘anhu – tha: O i Dërguari i Allahut! Më urdhëro me disa fjalë që ti them ato në mëngjes dhe në mbrëmje! I Dërguari i Allahut – sal- lAllahu ‘alejhi ue sel-lem – tha: Thuaj: “O Allah! Ti je Ai që di të fshehtat dhe të dukshmet, Krijuesi i qiejve dhe i tokës, Zoti i gjithçkaje dhe Sunduesi i tyre, dëshmoj se nuk ka të adhuruar tjetër me të drejtë përveç Teje! Kërkoj Mbrojtjen Tënde nga e keqja e vetes time, dhe nga e keqja e shejtanit dhe thirrjes së tij për në shirk. Dhe kërkoj mbrojtjen Tënde që të mos i bëjë dëm vetes time apo ndonjë Muslimani! Pastaj tha: Thuaji këto fjalë në mëngjes, në mbrëmje dhe kur të shtrihesh për të fjetur gjumë. [Tirmidhiu 3392, 3529 dhe Ebu Daudi 5067, 5083]”",
+      "compositionIds": [
+        "sleep_12"
+      ]
+    }
+  ]
+}

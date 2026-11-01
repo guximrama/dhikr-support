@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="sq">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><meta name="theme-color" content="#f8f5ef"><title>Dhikër · Rishikimi</title>
+<link rel="icon" href="../assets/icon.png"><link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="./corrections.css">
+<script src="./corrections.js" defer></script>
+<script src="./app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Kalo te përmbajtja</a>
+<header class="site-header"><a class="brand" href="../"><img src="../assets/icon.png" alt="" width="28" height="28">Dhikër</a></header>
+<div class="layout"><aside class="sidebar" aria-label="Përzgjedhja e lutjeve"><label class="sr-only" for="search">Kërko</label><input id="search" type="search" placeholder="Kërko…" autocomplete="off"><label class="sr-only" for="category">Kategoria</label><select id="category"><option value="">Të gjitha kategoritë</option></select><label class="sr-only" for="prayer-picker">Zgjidh lutjen</label><select id="prayer-picker" aria-label="Zgjidh lutjen"></select><span id="result-count" class="result-count" aria-live="polite"></span><nav id="prayer-list" aria-label="Lutjet" hidden></nav></aside>
+<main id="main" tabindex="-1"><div id="load-status" role="status">Duke ngarkuar…</div><article id="prayer" hidden><div class="article-top"><h1 id="prayer-title"></h1><span id="section-label" hidden></span><div class="article-tools"><button id="copy-link" type="button">Kopjo lidhjen</button><button id="print" type="button">Printo</button></div></div><div id="parts"></div><section class="review-section" aria-label="Sugjerimet"><div id="corrections"></div></section><nav class="pagination" aria-label="Lutjet"><button id="previous" type="button">← E mëparshmja</button><span id="position"></span><button id="next" type="button">Pasardhësja →</button></nav></article><p id="empty-state" hidden>Nuk u gjet asnjë lutje.</p><footer class="main-footer"><p id="book-attribution"></p></footer></main></div><div id="toast" role="status" aria-live="polite"></div>
+</body></html>
