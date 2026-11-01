@@ -58,7 +58,7 @@ function visibleList() {
  $('prayer-picker').disabled = filtered.length === 0;
  if (filtered.length && !filtered.some(prayer => prayer.id === selected?.id)) { const placeholder = element('option', '', 'Zgjidh lutjen'); placeholder.value = ''; placeholder.disabled = true; placeholder.selected = true; $('prayer-picker').prepend(placeholder); }
  $('empty-state').hidden = filtered.length > 0;
- $('prayer').hidden = filtered.length === 0; 
+ $('prayer').hidden = filtered.length === 0;
  updateNavigation();
 }
 function updateNavigation() {

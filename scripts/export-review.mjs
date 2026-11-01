@@ -41,5 +41,5 @@ await fs.mkdir(path.join(siteRoot, 'review/fonts'), {recursive: true});
 await fs.writeFile(path.join(siteRoot, 'review/content.json'), JSON.stringify(content, null, 2) + '\n');
 const fontRoot = path.join(appRoot, 'node_modules/@expo-google-fonts/scheherazade-new');
 await fs.copyFile(path.join(fontRoot, '400Regular/ScheherazadeNew_400Regular.ttf'), path.join(siteRoot, 'review/fonts/ScheherazadeNew-Regular.ttf'));
-await fs.copyFile(path.join(fontRoot, 'LICENSE_FONT'), path.join(siteRoot, 'review/fonts/OFL.txt'));
+await fs.writeFile(path.join(siteRoot, 'review/fonts/OFL.txt'), (await fs.readFile(path.join(fontRoot, 'LICENSE_FONT'), 'utf8')).replace(/\r\n/g, '\n'));
 console.log(`Exported ${prayers.length} prayers with ${prayers.reduce((n, p) => n + p.compositionIds.length, 0)} displayed parts.`);
