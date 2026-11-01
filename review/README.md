@@ -4,7 +4,7 @@ Internal review page for all 40 app entries. The page is hosted on GitHub Pages;
 
 Reviewer and owner links use separate random access keys in the URL fragment. Keys are removed from the address bar after being loaded into session storage. Keep the owner link private. No access keys belong in this repository.
 
-The reviewer edits the four original text fields and saves proposals. The owner accepts or returns each proposal. These actions update review records; they do not modify the released app.
+The reviewer edits the four original text fields; proposals save automatically after a short pause. The indicator confirms when saving succeeds. The owner accepts or returns each proposal. These actions update review records; they do not modify the released app.
 
 `content.json` contains the exact current Arabic override, transliteration, Albanian text and full references, including the composite bedtime entry. Missing fields are preserved. The Arabic font is bundled under its OFL license.
 
