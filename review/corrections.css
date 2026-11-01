@@ -3,3 +3,10 @@
 .save-actions{position:sticky;top:0;z-index:2;background:var(--paper);padding:10px 0;margin:0 0 10px;border-bottom:1px solid var(--line)}
 
 .save-actions .save-status{line-height:1.5}.save-actions button[hidden]{display:none!important}.save-actions{min-height:42px}
+@media(max-width:580px){
+ .edit-label textarea{font-size:16px}
+ .edit-label textarea.review-arabic{font-size:29px}
+ .corrections-toolbar button,.review-actions button{min-height:44px;min-width:44px}
+ .corrections-toolbar select{font-size:16px;min-height:44px;min-width:44px}
+ .original-details summary{min-height:44px;min-width:44px;display:flex;align-items:center}
+}
