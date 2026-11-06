@@ -13,6 +13,31 @@ const dirty=()=>[...drafts.values()].some(d=>d.dirty||d.inflight);
 async function request(path,options={}){const response=await fetch(API+path,{...options,headers:{Authorization:`Bearer ${key}`,...(options.body?{'Content-Type':'application/json'}:{}),...options.headers}});let body;try{body=await response.json();}catch{body={};}if(!response.ok){const error=new Error(response.status===409?'Konflikt. Të dhënat nuk u ruajtën.':response.status===401||response.status===403?'Lidhja e rishikimit nuk është e vlefshme.':'Kërkesa dështoi. Provoni përsëri.');error.status=response.status;throw error;}return body;}
 function originals(part){return Object.fromEntries(fields.map(field=>[field,part[field]||'']));}
 function originalDetails(part){const details=node('details');details.className='original-details';details.append(node('summary','Origjinali'));for(const field of fields){details.append(node('div',labels[field],'edit-label'));const value=node('p',part[field]||'—');value.lang=field==='arabic'&&part[field]?'ar':'sq';value.dir=field==='arabic'&&part[field]?'rtl':'ltr';if(field==='arabic'&&part[field])value.className='review-arabic';details.append(value);}return details;}
+function arabicEditor(area,part,changed,draft){
+ const box=node('div',undefined,'arabic-editor');
+ const original=node('div',undefined,'arabic-original');
+ original.append(node('span','Origjinali','arabic-caption'));
+ const source=node('p',part.arabic||'—','review-arabic');source.lang='ar';source.dir='rtl';original.append(source);
+ const controls=node('div',undefined,'arabic-controls');
+ const toggle=node('button','Ndrysho arabishten');toggle.type='button';toggle.setAttribute('aria-pressed','false');
+ const restore=node('button','Kthe origjinalin');restore.type='button';
+ const notice=node('p','','arabic-notice');notice.setAttribute('role','status');
+ const letters=value=>value.normalize('NFC').replace(/\p{M}/gu,'').replace(/[^\p{L}\p{N}\s]/gu,'').replace(/\s+/gu,' ').trim();
+ let editing=false;
+ const update=()=>{
+  const differs=area.value!==(part.arabic||'');
+  area.readOnly=!editing;toggle.textContent=editing?'Mbyll redaktimin':'Ndrysho arabishten';toggle.setAttribute('aria-pressed',String(editing));
+  original.hidden=!editing&&!differs;
+  restore.hidden=!differs;restore.disabled=draft.reloading;
+  notice.hidden=!differs;
+  notice.textContent=letters(area.value)!==letters(part.arabic||'')?'Shkronjat ose hapësirat ndryshojnë nga origjinali. Kontrolloji më sipër.':'Shenjat ose pikësimi ndryshojnë nga origjinali.';
+ };
+ toggle.onclick=()=>{editing=!editing;update();if(editing)area.focus();};
+ restore.onclick=()=>{if(!confirm('Të rikthehet vetëm arabishtja origjinale?'))return;area.value=part.arabic||'';changed();};
+ area.spellcheck=false;area.setAttribute('autocorrect','off');area.setAttribute('autocapitalize','off');area.setAttribute('autocomplete','off');
+ controls.append(toggle,restore);box.append(original,controls,area,notice);update();
+ return {box,update,toggle,restore};
+}
 function currentParts(){return (current.compositionIds?.length?current.compositionIds:[current.id]).map(id=>content.prayers.find(p=>p.id===id)).filter(Boolean);}
 function fit(area){area.style.height='auto';area.style.height=Math.min(Math.max(area.scrollHeight,80),480)+'px';}
 function fitVisible(){document.querySelectorAll('#corrections textarea').forEach(area=>{if(area.getClientRects().length)fit(area);});}
@@ -62,27 +87,35 @@ for(const [index,part] of currentParts().entries()) {
   finally{draft.reloading=false;setReloadState(draft);updateStatus(draft);}
  };
  actions.append(status,retry,reload);card.append(actions);
- draft.view={status,retry,reload,areas:{}};
+ draft.view={status,retry,reload,areas:{},arabic:null};
  for(const field of fields){
   const label=node('label',labels[field],'edit-label');const area=node('textarea');
   area.value=draft.fields[field]??'';area.lang=field==='arabic'?'ar':'sq';area.dir=field==='arabic'?'rtl':'ltr';
   if(field==='arabic')area.className='review-arabic';area.setAttribute('aria-label',labels[field]);
-  const changed=()=>{draft.fields[field]=area.value;draft.generation++;draft.dirty=true;draft.lastInputAt=Date.now();fit(area);schedule(draft);};
+  const changed=()=>{draft.fields[field]=area.value;draft.generation++;draft.dirty=true;draft.lastInputAt=Date.now();fit(area);draft.view?.arabic?.update();schedule(draft);};
   area.oninput=changed;
   area.addEventListener('compositionstart',()=>{draft.composing=true;clearTimeout(draft.timer);});
   area.addEventListener('compositionend',()=>{draft.composing=false;changed();});
-  draft.view.areas[field]=area;label.append(area);card.append(label);requestAnimationFrame(()=>fit(area));
+  draft.view.areas[field]=area;
+  if(field==='arabic'){
+   const caption=node('div',labels[field],'edit-label');
+   draft.view.arabic=arabicEditor(area,part,changed,draft);card.append(caption,draft.view.arabic.box);
+  }else{label.append(area);card.append(label);}
+  requestAnimationFrame(()=>fit(area));
  }
  setReloadState(draft);updateStatus(draft);card.append(originalDetails(part));mount.append(card);
 }}
 function setReloadState(draft){
  if(!draft.view)return;
  for(const area of Object.values(draft.view.areas))area.disabled=draft.reloading;
+ draft.view.arabic?.update();
+ if(draft.view.arabic)draft.view.arabic.toggle.disabled=draft.reloading;
  draft.view.retry.disabled=draft.reloading;
  draft.view.reload.disabled=draft.reloading||draft.inflight;
 }
 function updateStatus(draft){
  const view=draft.view;if(!view)return;
+ view.arabic?.update();
  view.status.textContent=(draft.reloading?'Duke ngarkuar…':draft.error)|| (draft.inflight?'Duke ruajtur…':draft.dirty?'Në pritje të ruajtjes…':draft.saved?'Ruajtur':'Ruhet automatikisht');
  view.retry.hidden=!draft.error||draft.blocked||draft.inflight;
  view.reload.hidden=!draft.blocked;
